@@ -3,3 +3,12 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# קבצי עבודה של PlatformIO (חשוב מאוד!)
+.pio/
+
+# קבצי תוצר של קימפול (אופציונלי אבל מומלץ)
+*.bin
+*.elf
+*.hex
+*.map
