@@ -12,3 +12,8 @@
 *.elf
 *.hex
 *.map
+/build
+/managed_components
+.clangd
+.vscode/settings.json
+sdkconfig.old
